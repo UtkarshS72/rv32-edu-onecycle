@@ -70,10 +70,6 @@ sim/
 
 └─ waves/            Vivado .wcfg file
 
-docs/
-
-└─ images/           screenshots & diagrams
-
 ---
 
 ## How to run (Vivado 2024.2)
@@ -107,3 +103,4 @@ docs/
 - FPGA execution (serial terminal output)
 - Multi-cycle implementation
 - Pipelined CPU
+
